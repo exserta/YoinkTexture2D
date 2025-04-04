@@ -6,5 +6,7 @@ Works both for ``~.bundle`` and ``~.assets`` files as long as they are unity bas
 
 # TO-DO
 
+✔️ Mass export textures <br>
 ❌ Allow mass import edited textures <br>
-✔️ Mass export textures
+❌ Fix exporting of audio-clip as ``~.wav`` from bundle files
+
